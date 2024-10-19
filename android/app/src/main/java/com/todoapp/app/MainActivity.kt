@@ -1,4 +1,4 @@
-package com.anonymous.todo
+package com.todoapp.app
 
 import android.os.Build
 import android.os.Bundle
